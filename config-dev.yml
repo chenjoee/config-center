@@ -15,7 +15,7 @@ spring:
             - config-repo
       ##读取分支
       label: master
-#  #rabbit相关配置 15672是web管理界面的端口，5672是MQ访问的端口
+#  #rabbit相关配置 15672是web管理界面的端口，5672是MQ访问的端口 网的发
 #  rabbitmq:
 #    host: localhost
 #    port: 5672
